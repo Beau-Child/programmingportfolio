@@ -14,24 +14,28 @@ OOP graphical game using images for a full user experience
 [Source Code]()
 
 ### Making Cars
+OOP graphical show of cars moving
 
 ![GamePlay]()
 
 [Source Code]()
 
 ### Calculator
+OOP a graphical calculator 
 
 ![GamePlay]()
 
 [Source Code]()
 
 ### Shapes
+OOP graphical display of shapes
 
 ![GamePlay]()
 
 [Source Code]()
 
 ### Grading App
+OOP a helpful app to help with grading
 
 ![GamePlay]()
 
